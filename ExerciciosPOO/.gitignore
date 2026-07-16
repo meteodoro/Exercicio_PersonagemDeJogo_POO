@@ -1,0 +1,12 @@
+# --- C# / .NET ---
+[Bb]in/
+[Oo]bj/
+
+# --- JetBrains (Rider / IntelliJ / WebStorm) ---
+.idea/
+*.user
+*.userosscache
+*.sln.docstates
+
+# --- Visual Studio ---
+.vs/
